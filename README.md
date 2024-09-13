@@ -1,8 +1,8 @@
 # Identificação
 
-* Nome: 
-* Email (@ccc): 
-* Matrícula: 
+* Nome: Arthur Vidal Regis Gouveia
+* Email (@ccc): arthur.vidal.regis.gouveia@ccc.ufcg.edu.br
+* Matrícula: 123110755
 
 # Roteiro: Fila de Prioridade
 
